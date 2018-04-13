@@ -17,7 +17,7 @@ const workboxSW = new WorkboxSW({
 workboxSW.precache([
   {
     "url": "/zyslsdprogram/dambody-count/index.html",
-    "revision": "12c53b60836217684729a7b0e7314ec5"
+    "revision": "2c01a78c09d7d1269449ebbe2cfc9650"
   },
   {
     "url": "/zyslsdprogram/dambody-count/static/css/index.b740df97.css"
@@ -37,7 +37,7 @@ workboxSW.precache([
     "revision": "012cf6a10129e2275d79d6adac7f3b02"
   },
   {
-    "url": "/zyslsdprogram/dambody-count/static/js/index.712f77cc.js"
+    "url": "/zyslsdprogram/dambody-count/static/js/index.bdb53530.js"
   },
   {
     "url": "/zyslsdprogram/dambody-count/static/js/manifest.bd48cff0.js"

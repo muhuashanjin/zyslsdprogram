@@ -4,24 +4,29 @@
     "short_name": "testappshell",
     "icons": [
         {
-            "src": "img/icons/tool60@2x.png",
+            "src": "img/icons/android-chrome-512x512.png",
             "type": "image/png",
-            "sizes": "60x60"
+            "sizes": "512x512"
         },
         {
-            "src": "img/icons/tool57@2x.png",
+            "src": "img/icons/android-chrome-192x192.png",
             "type": "image/png",
-            "sizes": "57x57"
+            "sizes": "192x192"
         },
         {
-            "src": "img/icons/tool40@2x.png",
+            "src": "img/icons/apple-touch-icon-180x180.png",
             "type": "image/png",
-            "sizes": "40x40"
+            "sizes": "180x180"
         },
         {
-            "src": "img/icons/tool29@2x.png",
+            "src": "img/icons/apple-touch-icon-152x152.png",
             "type": "image/png",
-            "sizes": "29x29"
+            "sizes": "152x152"
+        },
+        {
+            "src": "img/icons/android-chrome-144x144.png",
+            "type": "image/png",
+            "sizes": "144x144"
         }
     ],
     "display": "standalone",
