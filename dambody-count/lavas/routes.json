@@ -8,6 +8,11 @@
             "meta": {}
         },
         {
+            "path": "/countlist/dambodycount",
+            "name": "countlistDambodycount",
+            "meta": {}
+        },
+        {
             "path": "/detail/:id",
             "name": "detailId",
             "meta": {}

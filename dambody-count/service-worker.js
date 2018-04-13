@@ -17,10 +17,10 @@ const workboxSW = new WorkboxSW({
 workboxSW.precache([
   {
     "url": "/zyslsdprogram/dambody-count/index.html",
-    "revision": "7e6efc0d08f88d79bfa69cb9ea90ea9b"
+    "revision": "12c53b60836217684729a7b0e7314ec5"
   },
   {
-    "url": "/zyslsdprogram/dambody-count/static/css/index.ee0369ee.css"
+    "url": "/zyslsdprogram/dambody-count/static/css/index.b740df97.css"
   },
   {
     "url": "/zyslsdprogram/dambody-count/static/fonts/MaterialIcons-Regular.012cf6a1.woff"
@@ -37,13 +37,13 @@ workboxSW.precache([
     "revision": "012cf6a10129e2275d79d6adac7f3b02"
   },
   {
-    "url": "/zyslsdprogram/dambody-count/static/js/index.ec153cc2.js"
+    "url": "/zyslsdprogram/dambody-count/static/js/index.712f77cc.js"
   },
   {
     "url": "/zyslsdprogram/dambody-count/static/js/manifest.bd48cff0.js"
   },
   {
-    "url": "/zyslsdprogram/dambody-count/static/js/vendor.79122b22.js"
+    "url": "/zyslsdprogram/dambody-count/static/js/vendor.5f5f4d1e.js"
   },
   {
     "url": "/zyslsdprogram/dambody-count/static/js/vue.353db202.js"
