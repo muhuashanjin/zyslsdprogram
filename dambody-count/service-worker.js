@@ -1,7 +1,7 @@
 importScripts('/zyslsdprogram/dambody-count/static/js/workbox-sw.prod.v2.1.3.js');/**
  * @file service-worker.js with workbox api
  * @desc [example](https://workbox-samples.glitch.me/examples/workbox-sw/)
- * @author tanghy(tanghuayinhd@gmail.com)
+ * @author yourname(someone@somecompany.com)
  */
 
 /* globals WorkboxSW */
@@ -17,10 +17,10 @@ const workboxSW = new WorkboxSW({
 workboxSW.precache([
   {
     "url": "/zyslsdprogram/dambody-count/index.html",
-    "revision": "0509e5370e0e45773413614bfb477ce2"
+    "revision": "2e3e012da467959eddd587bce1ef869c"
   },
   {
-    "url": "/zyslsdprogram/dambody-count/static/css/index.d4ad5643.css"
+    "url": "/zyslsdprogram/dambody-count/static/css/index.a2174b40.css"
   },
   {
     "url": "/zyslsdprogram/dambody-count/static/fonts/MaterialIcons-Regular.012cf6a1.woff"
@@ -37,7 +37,7 @@ workboxSW.precache([
     "revision": "012cf6a10129e2275d79d6adac7f3b02"
   },
   {
-    "url": "/zyslsdprogram/dambody-count/static/js/index.86287ec4.js"
+    "url": "/zyslsdprogram/dambody-count/static/js/index.dbbaef0c.js"
   },
   {
     "url": "/zyslsdprogram/dambody-count/static/js/manifest.bd48cff0.js"
