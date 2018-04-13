@@ -1,7 +1,7 @@
 {
     "start_url": "/zyslsdprogram/dambody-count/?utm_source=homescreen",
-    "name": "pwa-project",
-    "short_name": "pwa-project",
+    "name": "testappshell",
+    "short_name": "testappshell",
     "icons": [
         {
             "src": "img/icons/android-chrome-512x512.png",
