@@ -17,10 +17,10 @@ const workboxSW = new WorkboxSW({
 workboxSW.precache([
   {
     "url": "/zyslsdprogram/dambody-count/index.html",
-    "revision": "0509e5370e0e45773413614bfb477ce2"
+    "revision": "83a9972f2a3d87bf5694504a67f5c659"
   },
   {
-    "url": "/zyslsdprogram/dambody-count/static/css/index.d4ad5643.css"
+    "url": "/zyslsdprogram/dambody-count/static/css/index.d5f1d3f6.css"
   },
   {
     "url": "/zyslsdprogram/dambody-count/static/fonts/MaterialIcons-Regular.012cf6a1.woff"
@@ -37,7 +37,7 @@ workboxSW.precache([
     "revision": "012cf6a10129e2275d79d6adac7f3b02"
   },
   {
-    "url": "/zyslsdprogram/dambody-count/static/js/index.86287ec4.js"
+    "url": "/zyslsdprogram/dambody-count/static/js/index.54155e43.js"
   },
   {
     "url": "/zyslsdprogram/dambody-count/static/js/manifest.bd48cff0.js"
